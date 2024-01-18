@@ -18,7 +18,7 @@
 
 Установите и запустите memcached.
 
-*Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
+*Приведите [скриншот](./memcache.py) systemctl status memcached, где будет видно, что memcached запущен.*
 
 **Решение:**
 
