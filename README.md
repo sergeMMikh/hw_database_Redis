@@ -64,3 +64,5 @@
 *Для увеличения значения ключа использовал метод INCR*
 - скриншот проделанной работы
   * <img src="pictures/Task_5.jpg" alt="Task_5" width="400" height="auto">
+
+_Made on Raspberry Pi_ ;)
